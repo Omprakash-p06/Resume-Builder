@@ -23,7 +23,7 @@ A modern, beautiful resume builder application built with Next.js and React. Cre
 
 1. **Clone or Download the Project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Omprakash-p06/Resume-Builder.git
    cd Resume-Builder
    ```
 
